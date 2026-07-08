@@ -18,3 +18,8 @@ Abrir la carpeta que extrajiste.
 Hacer doble clic sobre el archivo llamado index.html.
 
 En el navegador predeterminado (Chrome, Edge, Firefox, etc.) se abrirá automáticamente mostrando la aplicación.
+
+
+Para loguearse utilizar: 
+1. Supervisor - generation2026IT
+2. Agente - generation2026IT
