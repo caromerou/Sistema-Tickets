@@ -1,0 +1,6 @@
+.kanban-column { background: #e9ecef; border-radius: 8px; padding: 15px; min-height: 500px; }
+.card { cursor: pointer; border-left: 6px solid #ccc; margin-bottom: 10px; transition: 0.2s; }
+.card:hover { transform: scale(1.02); }
+.card[data-estado="Abierto"] { border-left-color: #0d6efd; }
+.card[data-estado="EnProceso"] { border-left-color: #ffc107; }
+.card[data-estado="Cerrado"] { border-left-color: #198754; }
